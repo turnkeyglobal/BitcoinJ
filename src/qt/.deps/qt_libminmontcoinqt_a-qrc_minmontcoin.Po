@@ -1,0 +1,1 @@
+qt/qt_libminmontcoinqt_a-qrc_minmontcoin.o: qt/qrc_minmontcoin.cpp
